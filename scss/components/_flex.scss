@@ -1,0 +1,15 @@
+.df-ai-center {
+  display: flex;
+  align-items: center;
+}
+.flex-col-center {
+  @include flex--col(center, column);
+}
+.df-jc-sb {
+  display: flex;
+  justify-content: space-between;
+}
+.df-fd-c {
+  display: flex;
+  flex-direction: column;
+}

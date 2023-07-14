@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+.header__up {
+  background-color: #1e212c;
+  color: #fff;
+}
+
+.header__sale a {
+  text-decoration: overline;
+  color: black;
+  border: 2px solid black;
+}
+
+.header__sale button {
+  background-color: #3a3030;
+}
+
+.c-gray900 {
+  color: #1e212c;
+}
+
+.c-gray400 {
+  color: #d7dadd;
+}
+
+.c-green {
+  color: #17696a;
+}
+
+.c-red {
+  color: #ff4242;
+}
+
+.c-orange {
+  color: #f89828;
+}
+
+.c-white {
+  color: #fff;
+}
+
+.c-solate {
+  color: #03cea4;
+}
+
+.bg-c-gray {
+  color: #d7dadd;
+}
+
+.df-ai-center {
+  display: flex;
+  align-items: center;
+}
+
+.flex-col-center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.df-jc-sb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.df-fd-c {
+  display: flex;
+  flex-direction: column;
+}
+
+.gap8 {
+  gap: 8px;
+}
+
+.gap12 {
+  gap: 12px;
+}
+
+.gap20 {
+  gap: 12px;
+}
+
+.gap32 {
+  gap: 32px;
+}
+
+.gap40 {
+  gap: 40px;
+}
+
+.gap48 {
+  gap: 48px;
+}
+
+.gap60 {
+  gap: 60px;
+}
+
+.mrg30-0 {
+  margin: 30px 0;
+}
+
+.pad12-0 {
+  padding: 12px 0;
+}
+
+.pad30-0 {
+  padding: 30px 0;
+}
+
+.pad-rgt20 {
+  padding-right: 20px;
+}
+
+.border-rgt {
+  border-right: 1px solid #d7dadd;
+}
+
+.header-down-icons__like {
+  padding-right: 20px;
+  border-right: 1px solid #d7dadd;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}/*# sourceMappingURL=index.css.map */

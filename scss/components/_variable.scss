@@ -1,0 +1,18 @@
+$gray900: #1e212c;
+$gray400: #d7dadd;
+$green: #17696a;
+$red: #ff4242;
+$orange: #f89828;
+$white: #fff;
+$solate: #03cea4;
+
+@mixin flex($align) {
+  display: flex;
+  align-items: $align;
+}
+
+@mixin flex--col($align, $direction) {
+  display: flex;
+  align-items: $align;
+  flex-direction: $direction;
+}
